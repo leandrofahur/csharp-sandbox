@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\repository\csharp-sandbox\GUI\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe.config
+\\Mac\Home\Documents\repository\csharp-sandbox\GUI\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe
+\\Mac\Home\Documents\repository\csharp-sandbox\GUI\NetflixApp\NetflixApp\bin\Debug\NetflixApp.pdb
+\\Mac\Home\Documents\repository\csharp-sandbox\GUI\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csprojAssemblyReference.cache
+\\Mac\Home\Documents\repository\csharp-sandbox\GUI\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Form1.resources
+\\Mac\Home\Documents\repository\csharp-sandbox\GUI\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Properties.Resources.resources
+\\Mac\Home\Documents\repository\csharp-sandbox\GUI\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.GenerateResource.cache
+\\Mac\Home\Documents\repository\csharp-sandbox\GUI\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\repository\csharp-sandbox\GUI\NetflixApp\NetflixApp\obj\Debug\NetflixApp.exe
+\\Mac\Home\Documents\repository\csharp-sandbox\GUI\NetflixApp\NetflixApp\obj\Debug\NetflixApp.pdb
+\\Mac\Home\Documents\repository\csharp-sandbox\GUI\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Form2.resources
